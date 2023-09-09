@@ -1,0 +1,206 @@
+Character created!
+Name: Monka
+Desc: A courageous Monk hunting for treasure!
+
+Monster Room
+Monster Spawned
+	Name: Goblin
+	Desc: A mischievous, extremely malicious Goblin!
+	Monster Stats:
+		HP: 10
+		AP: 2
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 7
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 7
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 4
+
+It's Goblin's turn!
+
+Attacking
+	Player HP: 13
+
+It's your turn. Choose strategically!
+
+Defending
+	Player HP: 14
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 4
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 1
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 1
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 1
+
+It's Goblin's turn!
+
+Attacking
+	Player HP: 12
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 0
+
+Goblin has been defeated!
+
+Empty Room
+	Prayed
+	Prayed
+	Next Room
+Armory Room
+	Drank Witcher's Potion
+	Next Room
+Empty Room
+	Next Room
+Monster Room
+Monster Spawned
+	Name: Goblin
+	Desc: A mischievous, extremely malicious Goblin!
+	Monster Stats:
+		HP: 10
+		AP: 2
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 10
+
+It's Goblin's turn!
+
+Attacking
+	Player HP: 20
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 10
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 10
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 7
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 8
+
+It's your turn. Choose strategically!
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 8
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 8
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 8
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 9
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 9
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 10
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 7
+
+It's Goblin's turn!
+
+Attacking
+	Player HP: 18
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 4
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 4
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 1
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 1
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 1
+
+It's Goblin's turn!
+
+Defending
+	Monster HP: 1
+
+It's your turn. Choose strategically!
+
+Attacking
+	Monster HP: 0
+
+Goblin has been defeated!
+
+Treasure Room
+
+Game Won!
+Final Stats:
+                                        Monk's name: Monka
+                                        Monk's description: A courageous Monk hunting for treasure!
+                                        Monk's HP: 18/20
+                                        Rooms visited: 6
+                                        Monsters fought: 2
+                                        Difficulty: Easy
+
